@@ -1,4 +1,6 @@
 # Rails on Replit
+La tarea esta en el archivo db/seeds.rb
+
 
 This is a template to get you started with Rails on Replit. It's ready to go so you can just hit run and start coding!
 
